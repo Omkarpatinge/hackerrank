@@ -1,4 +1,4 @@
 # hackerrank
 
 
-Contains all hackerrank solved problems
+Contains hackerrank solved problems
